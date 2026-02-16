@@ -79,6 +79,6 @@ Network monitoring and troubleshooting reference.
 
 												END.
 
-									Course Instructor	Maxamed Cali Maxamed (Jeeni).
-									Officail Email:- maxamedjeeni899@gmail.com.
-									Students Email:- casharada1@gmail.com.
+Course Instructor	Maxamed Cali Maxamed (Jeeni).
+
+Students Email:- casharada1@gmail.com.
